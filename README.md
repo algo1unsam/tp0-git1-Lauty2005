@@ -1,12 +1,11 @@
-# Título principal  
-## Subtítulo  
-**Negrita**  
-*Itálica*  
-[Enlace](https://github.com)  
-- Lista de elementos  
-1. Elemento numerado
+# YO: Lautaro Iezzi  
+## Cosas sobre mí  
 
-`Código en línea`
+- Mi canción favorita es:
+[Esa Estrella Era Mi Lujo](https://www.youtube.com/watch?v=SePSMFlQcek)  
 
+- Les presento a mi mascota **ENZO**:
+
+![Enzo](img/enzo.heic)
 
 *Version 1.0* 
