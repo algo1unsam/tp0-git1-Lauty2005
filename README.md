@@ -6,6 +6,6 @@
 
 - Les presento a mi mascota **ENZO**:
 
-![Enzo](img/enzo.heic)
+![Enzo](img/enzo.png)
 
 *Version 1.0* 
